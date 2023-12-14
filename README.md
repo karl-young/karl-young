@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, Im Karl Young</h1>
+![express-original-wordmark]()<h1 align="center">Hello 👋, Im Karl Young</h1>
 
 <p align="center" >Web Devloper | Code crafted with a calm touch. Easygoing developer with a passion for simplicity and elegance.</p>
 
@@ -11,6 +11,7 @@
 <a href="https://www.linkedin.com/in/karl-young-4846602a4" target="_blank">
   <img src="https://github.com/karl-young/karl-young/assets/142771183/88f9ca38-a616-4580-8b74-104a21673702" alt="LinkedIn Logo" width="50" height="50">
 </a>
+
 
 ## Languages and Tools:
 <a href="https://react.dev/">
@@ -29,5 +30,5 @@
   <img src="https://github.com/karl-young/karl-young/assets/142771183/95a142ca-6bca-4663-af52-57d46bf99815" alt="Nodejs logo" width="50" height="50">
 </a>
 <a href="https://expressjs.com/">
-  <img src="](https://github.com/karl-young/karl-young/assets/142771183/aaadf94f-0de3-4d60-aacd-9ec5c68492c1" alt="expressjs logo" width="50" height="50">
+  <img src="https://github.com/karl-young/karl-young/assets/142771183/2f2137b7-c392-4974-9d6f-9f69ca48b1c1" alt="expressjs logo" width="50" height="50">
 </a>
