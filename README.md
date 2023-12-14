@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning TS, React, Tailwind
 
-- 📫 How to reach me  [Email](karlyoung112@gmail.com) or Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/karl-young-4846602a4).
+- 📫 How to reach me  [Email](karlyoung112@gmail.com), [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/karl-young-4846602a4).
 -  
 
 <!---
