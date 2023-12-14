@@ -1,4 +1,4 @@
-![68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667](https://github.com/karl-young/karl-young/assets/142771183/1885740c-01cd-4d35-a555-2249306e92e9)<h1 align="center">Hello 👋, Im Karl Young</h1>
+<h1 align="center">Hello 👋, Im Karl Young</h1>
 
 <p align="center" >Web Devloper | Code crafted with a calm touch. Easygoing developer with a passion for simplicity and elegance.</p>
 
@@ -38,7 +38,6 @@
 <a href="https://git-scm.com/">
   <img src="https://github.com/karl-young/karl-young/assets/142771183/1885740c-01cd-4d35-a555-2249306e92e9" alt="Git logo" width="50" height="50">
 </a>
-<a href="">
-  <img src="" alt="expressjs logo" width="50" height="50">
-
+<a href="https://tailwindcss.com/">
+  <img src="https://github.com/karl-young/karl-young/assets/142771183/121b77c3-1c82-4a38-86bd-ecea2a01bba4" alt="Tailwind logo" width="50" height="50">
 </a>
