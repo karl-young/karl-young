@@ -1,4 +1,4 @@
-![css3-original-wordmark](https://github.com/karl-young/karl-young/assets/142771183/77277b6a-c6d8-4c1a-830f-9c841f02d746)<h1 align="center">Hello 👋, Im Karl Young</h1>
+<h1 align="center">Hello 👋, Im Karl Young</h1>
 
 <p align="center" >Web Devloper | Code crafted with a calm touch. Easygoing developer with a passion for simplicity and elegance.</p>
 
@@ -11,7 +11,7 @@
 <img src="https://github.com/karl-young/karl-young/assets/142771183/88f9ca38-a616-4580-8b74-104a21673702" alt="LinkedIn Logo" width="50" height="50">
 
 ## Languages and Tools:
-
+![css3-original-wordmark](https://github.com/karl-young/karl-young/assets/142771183/77277b6a-c6d8-4c1a-830f-9c841f02d746)
 
 
 <!---
