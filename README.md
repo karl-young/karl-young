@@ -5,7 +5,8 @@
 
 - 🌱 I’m currently learning TS, React, Tailwind
 
-- 📫 How to reach me  [Email me](karlyoung112@gmail.com)
+- 📫 How to reach me  [Email](karlyoung112@gmail.com) or Connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/karl-young-4846602a4).
+-  
 
 <!---
 karl-young/karl-young is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
