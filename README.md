@@ -23,8 +23,7 @@
 <img src='https://github.com/karl-young/karl-young/assets/142771183/77277b6a-c6d8-4c1a-830f-9c841f02d746' alt="CSS logo" width="50" height="50">
 </a>
 <a href="https://www.w3schools.com/html/default.asp">
-  <img src="https://github.com/karl-young/karl-young/assets/142771183/8ab850c3-3cb4-4b55-92f5-b1be1d37a0de
-" alt="html logo" width="50" height="50">
+  <img src="https://github.com/karl-young/karl-young/assets/142771183/62501f40-bc69-4700-9636-6296665c40b7" alt="html logo" width="50" height="50">
 </a>
 <a href="https://nodejs.org/en/about">
   <img src="https://github.com/karl-young/karl-young/assets/142771183/95a142ca-6bca-4663-af52-57d46bf99815" alt="Nodejs logo" width="50" height="50">
