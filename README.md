@@ -2,7 +2,7 @@
 
 <p align="center" >Web Devloper | Curious Mind | Craftsman</p>
 
-
+- 🔭 I'm Currently working on [My portfolio](https://github.com/karl-young/karls-Port)
 - 🌱 I’m currently learning TS, React, Tailwind
 
 - 📫 How to reach me: [Email](mailto:karlyoung112@gmail.com), [LinkedIn](https://www.linkedin.com/in/karl-young-4846602a4).
