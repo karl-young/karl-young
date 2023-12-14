@@ -1,6 +1,7 @@
 <h1 align="center">Hello 👋, Im Karl Young</h1>
 
-<p algin="center>Web Devloper</p>
+<p algin="center" >Web Devloper | Curious Mind</p>
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 
