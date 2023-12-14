@@ -8,7 +8,9 @@
 - ⚡ Fun fact I am well known for my relaxed nature and attention to detail.
 
 ## Connet with me:
-[![LinkedIn Logo](https://github.com/karl-young/karl-young/assets/142771183/88f9ca38-a616-4580-8b74-104a21673702)](https://www.linkedin.com/in/karl-young-4846602a4){:width="50px" height="50px"}
+<a href="https://www.linkedin.com/in/karl-young-4846602a4" target="_blank">
+  <img src="https://github.com/karl-young/karl-young/assets/142771183/88f9ca38-a616-4580-8b74-104a21673702" alt="LinkedIn Logo" width="50" height="50">
+</a>
 
 
 ## Languages and Tools:
