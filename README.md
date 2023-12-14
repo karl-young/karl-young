@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning TS, React, Tailwind
 
-- 📫 How to reach me  (karlyoung.gmail.com)
+- 📫 How to reach me  [karlyoung.gmail.com]
 
 <!---
 karl-young/karl-young is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
