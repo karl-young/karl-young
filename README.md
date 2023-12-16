@@ -43,4 +43,4 @@
 </a>
 
 
-Also all of the repositorys i have so far are what i have learned during Dev Academy. 
+Also all of the repositorys i have so far are what i have learned during Dev Academy. They may not fully polished or might be a bit messy i was and still am learning. 
