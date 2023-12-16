@@ -41,3 +41,5 @@
 <a href="https://tailwindcss.com/">
   <img src="https://github.com/karl-young/karl-young/assets/142771183/121b77c3-1c82-4a38-86bd-ecea2a01bba4" alt="Tailwind logo" width="50" height="50">
 </a>
+
+Also all of the repositorys i have so far are what i have learned during Dev Academy. 
