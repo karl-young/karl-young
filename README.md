@@ -2,7 +2,7 @@
 
 <p align="center" >Web Devloper | Code crafted with a calm touch. Easygoing developer with a passion for simplicity and elegance.</p>
 
-- 🔭 I'm Currently working on [My portfolio](https://github.com/karl-young/karls-Port), [Consuming External Apis](https://github.com/karl-young/consuming-external-apis)
+- 🔭 I'm Currently working on [My portfolio](https://github.com/karl-young/karls-Port)
 - 🌱 I’m currently learning TS, React, Tailwind
 - 📫 How to reach me: [Email](mailto:karlyoung112@gmail.com)
 - ⚡ Fun fact I am well known for my relaxed nature and attention to detail.
