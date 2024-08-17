@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, Im Karl Young</h1>
 
-<p align="center" >Web Devloper | Code crafted with a calm touch. Easygoing developer with a passion for simplicity and elegance.</p>
+<p align="center" >Web Devloper | Code crafted with a calm touch. Easygoing developer with a passion Learning.</p>
 
 - 🔭 I'm Currently working on [Test Automation Essentials](https://github.com/karl-young/test-automation-essentials-dev-academy).
 - 🌱 I’m currently learning TS, React, Python And also learning on  [FreeCodeCamp](https://www.freecodecamp.org/karl-young)
