@@ -2,7 +2,7 @@
 
 <p align="center" >Web Devloper | Code crafted with a calm touch. Easygoing developer with a passion Learning.</p>
 
-- 🔭 I'm Currently working on [Test Automation Essentials](https://github.com/karl-young/test-automation-essentials-dev-academy).
+- 🔭 I'm Currently working on [Test Automation Essentials](https://github.com/karl-young/test-automation-essentials-final-project).
 - 🌱 I’m currently learning TS, React, Python And also learning on  [FreeCodeCamp](https://www.freecodecamp.org/karl-young)
 - 📫 How to reach me: [Email](mailto:karlyoung112@gmail.com)
 - ⚡ Fun fact I am well known for my relaxed nature and attention to detail.
