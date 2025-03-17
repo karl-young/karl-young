@@ -2,8 +2,8 @@
 
 <p align="center" >Web Devloper | Code crafted with a calm touch. Easygoing developer with a passion Learning.</p>
 
-- 🔭 I'm Currently working on [Test Automation Essentials](https://github.com/karl-young/test-automation-essentials-final-project).
-- 🌱 I’m currently learning TS, React, Python And also learning on  [FreeCodeCamp](https://www.freecodecamp.org/karl-young)
+- 🔭 I'm Currently working on BIT.
+- 🌱 I’m currently learning C#, TS, React, Python and also learning on  [FreeCodeCamp](https://www.freecodecamp.org/karl-young)
 - 📫 How to reach me: [Email](mailto:karlyoung112@gmail.com)
 - ⚡ Fun fact I am well known for my relaxed nature and attention to detail.
 
@@ -43,4 +43,4 @@
 </a>
 
 
-Also all of the repositorys i have so far are what i have learned during Dev Academy. They may not fully polished or might be a bit messy i was and still am learning. 
+Also, all of the repositories I have so far are what I learned during Dev Academy. They may not be fully polished or might be a bit messy, but I was and still am learning. 
